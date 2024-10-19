@@ -8,8 +8,9 @@ This is a solution to the [Skilled e-learning landing page challenge on Frontend
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/ryanhoran1985/e-learningLandingPage
+- Live Site URL: https://unrivaled-biscotti-ee96cc.netlify.app/
+
 
 ### Built with
 
